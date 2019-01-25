@@ -1,3 +1,4 @@
 <?php
+// anew version
    phpinfo();
 ?>
